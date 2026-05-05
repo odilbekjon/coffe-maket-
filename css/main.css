@@ -16,6 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: blue;
 }
 
 .header__list {
@@ -44,6 +45,7 @@ body {
     background-position: center;
     background-size: cover;
     border-radius: 8px;
+    background-color: rgb(231, 165, 158);
 }
 
 .hero__wrapp {
