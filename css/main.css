@@ -16,6 +16,9 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color: dimgray;
+    background-color: red;
+    border: 2px solid blue;
 }
 
 .header__list {
